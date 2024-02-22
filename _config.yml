@@ -42,6 +42,8 @@ author: Dajeonghan-Nyeoseokduel
 #
 copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
+future: true
+
 description: >- # this means to ignore newlines until "baseurl:"
   모두의 다목적 개발팀 <다정한 녀석들> 블로그
 

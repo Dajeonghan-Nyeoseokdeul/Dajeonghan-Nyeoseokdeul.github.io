@@ -1,22 +1,22 @@
 ---
 layout: post
-title: Welcome to Jekyll!!!!
-subtitle: A awesome static site generator.
-author: Jeffrey
-categories: jekyll
+title: 당신 나를 찾아냈군요...?
+subtitle: 안녕하세요! 팀 <다정한 녀석들> 입니다!
+author: PunRabbit
+categories: 일상
 banner:
-  video: https://vjs.zencdn.net/v/oceans.mp4
+  video: https://vjs.zencdn.net/v/oceans.mp
   loop: true
   volume: 0.8
   start_at: 8.5
-  image: https://bit.ly/3xTmdUP
+  image: https://i.ibb.co/DfJy7ST/giphy-2.gif
   opacity: 0.618
   background: "#000"
   height: "100vh"
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
-tags: jekyll theme yat
+tags: [인사 한스푼]
 top: 1
 sidebar: []
 ---
